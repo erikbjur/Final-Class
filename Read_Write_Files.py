@@ -41,5 +41,3 @@ finally:
 # now print off the names of the people in the list
 for person in listOfPeople:
     person.PrintName()
-
-# now i'm going to add this line
