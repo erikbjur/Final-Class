@@ -1,5 +1,5 @@
 # here is a list of names
-names = ["Fred", "Bob", "Chuck"]
+names = ["Fred", "Bob", "Chuck","Jim"]
 
 # here we open the file as write only
 file = open('TestFile.rad', 'w') # the 'w' means write
