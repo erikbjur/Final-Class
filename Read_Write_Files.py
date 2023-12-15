@@ -21,6 +21,7 @@ finally:
 class Person:
     # here's the constructor for the person class
     def __init__(self, nameOfPerson) -> None:
+        # create one field for the name of the person
         self.Name = nameOfPerson
     
     # here's a method to print the name of the person
