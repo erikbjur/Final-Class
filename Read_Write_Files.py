@@ -1,5 +1,5 @@
 # here is a list of names
-names = ["Fred", "Bob", "Chuck"]
+names = ["Fred", "Bob", "Chuck","Jim","Tom"]
 
 # here we open the file as write only
 file = open('TestFile.rad', 'w') # the 'w' means write
@@ -49,3 +49,4 @@ finally:
 # now print off the names of the people in the list
 for person in listOfPeople:
     person.PrintName()
+#lucas pull request test
